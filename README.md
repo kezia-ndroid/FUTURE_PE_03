@@ -1,4 +1,4 @@
-# SEO Content Pack — Skin & Hair Clinic, Kochi
+# FUTURE_PE_03
 
 This repository contains a complete SEO content pack for a skin and hair clinic located in Kochi, Kerala — built as a content cluster (1 pillar blog + 5 supporting blogs) following the pillar/cluster SEO model used by professional SEO agencies.
 
